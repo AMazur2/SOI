@@ -1,5 +1,5 @@
 #include <iostream>
-#include "/home/jager/Desktop/Z4/monitor.h"
+#include "monitor.h"
 #include <thread>
 
 #define VIP_P 1
